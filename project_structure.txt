@@ -1,0 +1,9 @@
+pyramid_chart/
+├── images/           # Directory for all images
+│   └── .gitkeep     # Placeholder for empty directory
+├── src/              # Source code directory
+│   └── pyramid_chart.py
+├── .gitignore       # Git ignore file
+├── LICENSE          # MIT license
+├── README.md        # Project documentation
+└── requirements.txt # Python dependencies
